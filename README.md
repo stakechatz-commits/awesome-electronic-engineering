@@ -146,6 +146,7 @@ videos where he replies to any question fro .
 - [XOD Visual Programming Arduino](https://www.youtube.com/watch?v=qxjLH_3US04&feature=youtu.be) - Program Arduino in a very particular way through visual blocks.
 - [Electronics Weekly](https://www.electronicsweekly.com/) - Electronics Weekly is a good resource for those looking for industry-related news. There are topics in business, design, products, and so much more which are all directly related to electrical engineering. You can also use it to view available jobs or post jobs yourself.
 - [OminiPCB Engineering Tools](https://ominipcb.com/engineering-tools) - Online PCB engineering calculators and tools for trace width, impedance, stack-up, vias, cost, weight, panelization, and manufacturing calculations.
+- [OutletPicks Wire Gauge Chart](https://www.outletpicks.com/wire-gauge-chart) - AWG 18 to 4 with diameter, area, resistance per 1,000 ft and NEC breaker size, plus extension cord gauge by load and voltage drop over a 100 ft run.
 
 ## Contribute ##
 
